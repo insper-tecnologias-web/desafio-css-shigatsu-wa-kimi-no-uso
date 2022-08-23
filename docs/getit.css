@@ -96,5 +96,6 @@ body {
   display: flex;
   position: relative;
   align-items: center;
+  font-size: large;
 }
 
