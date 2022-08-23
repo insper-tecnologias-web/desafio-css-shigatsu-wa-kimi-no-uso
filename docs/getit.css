@@ -115,7 +115,7 @@ body {
   margin: 1rem;
   height: 7rem;
   width: 30rem;
-  box-shadow: 0 0 6px 1px;
+  box-shadow: 3px 3px 20px 2px rgb(185, 185, 185);
 }
 
 .form-card-title{
