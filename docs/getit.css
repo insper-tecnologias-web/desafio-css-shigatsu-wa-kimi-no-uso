@@ -116,6 +116,7 @@ body {
   height: 7rem;
   width: 30rem;
   box-shadow: 3px 3px 20px 2px rgb(185, 185, 185);
+  padding: 0.2rem;
 }
 
 .form-card-title{
@@ -124,6 +125,8 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: large;
   font-weight: bold;
+  margin: 0.3rem;
+  margin-left: 1rem;
 }
 
 .autoresize{
@@ -131,6 +134,7 @@ body {
   border: 0;
   font-family: "Roboto", sans-serif;
   resize: none;
+  margin-left: 1rem;
 }
 
 .btn{
@@ -146,18 +150,95 @@ body {
   flex-wrap: wrap;
   justify-content: space-evenly;
   align-items: center;
-  row-gap: 1.3rem;
+  row-gap: 1.8rem;
   column-gap: 1rem;
   margin-left: 2rem;
   margin-right: 2rem;
   
 }
 .card{
-  background-color: blueviolet;
   width: 12rem;
   height: 8rem;
+  font-family: 'Permanent Marker', cursive;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  box-shadow: 1px 1px 10px 2px rgb(140, 140, 140);
 }
 
 .card_title{
-  font-family: ;
+  font-weight: bolder;
+}
+
+.card-content{
+  font-size: small;
+  color: #4c4c4c;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  direction: row;
+  text-align: center;
+  justify-content: space-around;
+}
+.card-color-1{
+  background-color: #ead3a7;
+}
+
+.card-color-2{
+  background-color: #9de0f5;
+}
+
+.card-color-3{
+  background-color: #ef89ba;
+}
+
+.card-color-4{
+  background-color: #fae890;
+}
+
+.card-color-5{
+  background-color: #abe9c1;
+}
+
+.card-rotation-1{
+  transform: rotate(-5deg);
+}
+
+.card-rotation-2{
+  transform: rotate(5deg);
+}
+
+.card-rotation-3{
+  transform: rotate(-3deg);
+}
+
+.card-rotation-4{
+  transform: rotate(-3deg);
+}
+
+.card-rotation-5{
+  transform: rotate(-2deg);
+}
+
+.card-rotation-6{
+  transform: rotate(2deg);
+}
+
+.card-rotation-7{
+  transform: rotate(-5deg);
+}
+
+.card-rotation-8{
+  transform: rotate(5deg);
+}
+
+.card-rotation-9{
+  transform: rotate(-7deg);
+}
+
+.card-rotation-10{
+  transform: rotate(7deg);
+}
+
+.card-rotation-11{
+  transform: rotate(6deg);
 }
