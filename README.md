@@ -2,9 +2,9 @@
 
 Grupo:
 
-- DIGITE O NOME DO PRIMEIRO INTEGRANTE
-- DIGITE O NOME DO SEGUNDO INTEGRANTE
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://barbaratieko.github.io/tecweb-2021-2-desafio-css/)
+- Antônio Amaral Egydio Martins
+- Arthur Martins de Souza Barreto
+- Link do GitHub Pages: https://github.com/insper-tecnologias-web/desafio-css-shigatsu-wa-kimi-no-uso
 
 ## Desafio CSS
 
