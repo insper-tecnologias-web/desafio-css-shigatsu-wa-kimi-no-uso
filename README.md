@@ -4,7 +4,7 @@ Grupo:
 
 - Antônio Amaral Egydio Martins
 - Arthur Martins de Souza Barreto
-- Link do GitHub Pages: 
+- Link do GitHub Pages: https://insper-tecnologias-web.github.io/desafio-css-shigatsu-wa-kimi-no-uso/
 
 ## Desafio CSS
 
